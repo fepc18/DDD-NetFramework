@@ -24,8 +24,8 @@ Exclusiones/Pendientes:
 
 
 Arquitectura N-Capas
-
-https://raw.githubusercontent.com/usuario/repositorio/rama/ruta/al/asset
+![No se encuentra imagen]
+(https://github.com/fepc18/DDD-NetFramework/blob/master/Postman/Arquitectura%20N-Capas.png)
 
 
 
