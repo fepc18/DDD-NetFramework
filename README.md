@@ -24,8 +24,8 @@ Exclusiones/Pendientes:
 
 
 Arquitectura N-Capas
-![No se encuentra imagen]
-(https://github.com/fepc18/DDD-NetFramework/blob/master/Postman/Arquitectura%20N-Capas.png)
+
+![No se encuentra imagen](https://github.com/fepc18/DDD-NetFramework/blob/master/Postman/Arquitectura%20N-Capas.png)
 
 
 
