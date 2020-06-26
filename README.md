@@ -15,4 +15,17 @@ Se capa de presentación tiene una implementación de capa de interfaz de usuari
 
 Test a web api con postman y newman
 
+Exclusiones/Pendientes:
+
+- Ex.Arquitectura no incluye eventos o patrones de microservicios.
+- Ex. No incluye DTo
+- Todo: Swagger
+- Todo: Guards
+
+
+Arquitectura N-Capas
+
+https://raw.githubusercontent.com/usuario/repositorio/rama/ruta/al/asset
+
+
 
